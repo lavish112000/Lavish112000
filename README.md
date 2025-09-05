@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lavish! 
+# 👋 Hi, I'm Lavish!(Lalit)
 
 ## 🚀 Software Developer & Full Stack Developer (Android & WebApps)
 
