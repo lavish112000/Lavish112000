@@ -20,7 +20,7 @@ I love building intelligent, beautiful, and impactful software—from AI chatbot
 - [Resume-parser](https://github.com/lavish112000/Resume-parser): Extracts and analyzes resume data using NLP and machine learning.
 - [LinguaChat-AI](https://github.com/lavish112000/LinguaChat-AI): Real-time AI chatbot for language learning and conversation practice.
 - [Blog](https://github.com/lavish112000/Blog): A modern, full-featured blogging platform powered by the MERN stack.
-- [my-3d-portfolio](https://github.com/lavish112000/my-3d-portfolio): Interactive 3D portfolio site built with Three.js and React.
+- [NeonFlux Portolio](https://github.com/lavish112000/NeonFlux-Portfolio): Interactive 3D portfolio site built with NEXT.js and REACT.
 - [my-portfolio](https://github.com/lavish112000/my-portfolio): My personal web portfolio showcasing my journey and projects.
 
 ---
