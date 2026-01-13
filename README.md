@@ -10,7 +10,7 @@ I love building intelligent, beautiful, and impactful software—from AI chatbot
 
 - **Languages:** Python, JavaScript, Java
 - **Frameworks/Libraries:** React, Node.js, Express, Flask, FastAPI, Three.js
-- **Databases:** MongoDB, Supabase
+- **Databases:** MongoDB, Supabase, Sql,
 - **Specialties:** NLP, AI/ML, Chatbots, 3D Web, Android App Development
 
 ---
