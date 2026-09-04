@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lavish!(Lalit)
 
-## 🚀 Software Developer Engineer & Full Stack Developer (Android & WebApps)
+## 🚀 Senior Software Developer Engineer & Full Stack Developer (Android & WebApps)
 
 I love building intelligent, beautiful, and impactful software—from AI chatbots to 3D web portfolios. I believe in combining creativity with code to craft extraordinary digital experiences.
 
